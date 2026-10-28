@@ -1,0 +1,6 @@
+{
+  "name": "BIHE College Portal",
+  "description": "The official academic portal of Bapuji Institute of Hi-Tech Education (BIHE), Davangere. A comprehensive, high-fidelity college management platform featuring interactive portals for admins, staff, students, and parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
